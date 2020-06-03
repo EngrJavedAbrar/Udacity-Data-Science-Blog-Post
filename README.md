@@ -1,6 +1,6 @@
-# 1 - Data Science Blog Post
+# **1 - Data Science Blog Post**
 
-You can read my Medium Blog Post in here.
+You can read my Medium Blog Post in [here](https://medium.com/p/71e6d79c082b/edit).
 ## Libraries
 
 To be able to run this notebook, you need to install these libraries:
