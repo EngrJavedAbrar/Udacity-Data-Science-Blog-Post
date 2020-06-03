@@ -15,15 +15,15 @@ In this project, I did the analysis for Stack Overflow Survey Data 2019. This is
 
 For this analysis, I focused in answering these three questions:
 
-    Which country has the highest job satisfaction for developers ?
-    Is there the difference in job satisfaction between developers whose undergraduate major is IT-related an those who are not ?
+   Which country has the highest job satisfaction for developers ?
+   Is there the difference in job satisfaction between developers whose undergraduate major is IT-related an those who are not ?
     Is there any differences in terms of salary between people who contribute to open source and those who are not?
 
 ## Result Summary
 
 After I did the analysis, these are the conclusion I found:
 
-    United States has the highest job satisfaction level for developers in the world, and 5 of top 10 countries with the highest job satisfaction level are located in Europe.
+United States has the highest job satisfaction level for developers in the world, and 5 of top 10 countries with the highest job satisfaction level are located in Europe.
     Developers whose undergraduate major is not IT-related have slightly better job satisfaction.
     Developers who contribute more to the open source have the higher salary (although ”does it have the direct causation?” is still debatable).
 
