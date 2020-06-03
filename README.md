@@ -1,7 +1,7 @@
-1 - Data Science Blog Post
+# 1 - Data Science Blog Post
 
 You can read my Medium Blog Post in here.
-Libraries
+## Libraries
 
 To be able to run this notebook, you need to install these libraries:
 
@@ -9,7 +9,7 @@ To be able to run this notebook, you need to install these libraries:
     Seaborn
     Matplotlib
 
-Introduction
+## Introduction
 
 In this project, I did the analysis for Stack Overflow Survey Data 2019. This is a survey data which I took from their website. This data contains nearly 90,000 responses from over 170 countries. I used jupyter notebook to do the analysis which you can find in the Data Science Blog Post.ipynb file.
 
@@ -19,7 +19,7 @@ For this analysis, I focused in answering these three questions:
     Is there the difference in job satisfaction between developers whose undergraduate major is IT-related an those who are not ?
     Is there any differences in terms of salary between people who contribute to open source and those who are not?
 
-Result Summary
+## Result Summary
 
 After I did the analysis, these are the conclusion I found:
 
@@ -27,7 +27,7 @@ After I did the analysis, these are the conclusion I found:
     Developers whose undergraduate major is not IT-related have slightly better job satisfaction.
     Developers who contribute more to the open source have the higher salary (although ”does it have the direct causation?” is still debatable).
 
-Notes
+## Notes
 
 Because I could not put the data in the github repository, you can download the data first from this link.
 
