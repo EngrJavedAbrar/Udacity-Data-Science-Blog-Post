@@ -15,9 +15,9 @@ In this project, I did the analysis for Stack Overflow Survey Data 2019. This is
 
 For this analysis, I focused in answering these three questions:
 
-   Which country has the highest job satisfaction for developers ?
-   Is there the difference in job satisfaction between developers whose undergraduate major is IT-related an those who are not ?
-    Is there any differences in terms of salary between people who contribute to open source and those who are not?
+   1. Which country has the highest job satisfaction for developers ?
+   2. Is there the difference in job satisfaction between developers whose undergraduate major is IT-related an those who are       not ?
+   3. Is there any differences in terms of salary between people who contribute to open source and those who are not?
 
 ## Result Summary
 
