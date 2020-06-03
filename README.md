@@ -23,9 +23,9 @@ For this analysis, I focused in answering these three questions:
 
 After I did the analysis, these are the conclusion I found:
 
-United States has the highest job satisfaction level for developers in the world, and 5 of top 10 countries with the highest job satisfaction level are located in Europe.
-    Developers whose undergraduate major is not IT-related have slightly better job satisfaction.
-    Developers who contribute more to the open source have the higher salary (although ”does it have the direct causation?” is still debatable).
+1. United States has the highest job satisfaction level for developers in the world, and 5 of top 10 countries with the highest job satisfaction level are located in Europe.
+   2. Developers whose undergraduate major is not IT-related have slightly better job satisfaction.
+   3. Developers who contribute more to the open source have the higher salary (although ”does it have the direct causation?” is still debatable).
 
 ## Notes
 
